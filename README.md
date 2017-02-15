@@ -31,7 +31,7 @@ This program can find in your DataBase film by key word. You should point place 
 
 This programm can recommend which film can interest you, after you enter title some film. Also you should point place which contains your DataBase.
 ## Example: ##
-    **Enter path to your movie list:**
+    ##Enter path to your movie list:##
     movie_list.txt
     **Enter  word:**
      Saw II
