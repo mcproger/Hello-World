@@ -18,33 +18,33 @@ This programm allow you to download information about 1000 films and create Data
 This program can find in your DataBase film by key word. You should point place which contains your DataBase, enter key word and program will show your all films which title contains this word. 
 
 ## Example: ##
-    **Enter path to your movie list:**
-    movie_list.txt
-    **Enter key word:**
-    Saw 
-    **Saw
-    **Saw III**
-    **Saw II**
-    **Saw IV**
+ **Enter path to your movie list:**
+ movie_list.txt
+ **Enter key word:**
+ Saw 
+ **Saw
+ **Saw III**
+ **Saw II**
+ **Saw IV**
     
 ### 4. Search_for_recommendation ##
 
 This programm can recommend which film can interest you, after you enter title some film. Also you should point place which contains your DataBase.
 ## Example: ##
-    ##Enter path to your movie list:##
-    movie_list.txt
-    **Enter  word:**
-     Saw II
-     **Recomend films:**
-     Four Rooms
-    **Absolute Power**
-    **Las Hurdes**
-    **The Lord of the Rings**
-    **48 Hrs.**
-    **Lost in Translation**
-    **The Interpreter**
-    **Star Trek: Generations**
-    **......................**
+ ##Enter path to your movie list:##
+ movie_list.txt
+ **Enter  word:**
+  Saw II
+  **Recomend films:**
+  Four Rooms
+ **Absolute Power**
+ **Las Hurdes**
+ **The Lord of the Rings**
+ **48 Hrs.**
+ **Lost in Translation**
+ **The Interpreter**
+ **Star Trek: Generations**
+ **......................**
 
     
     
