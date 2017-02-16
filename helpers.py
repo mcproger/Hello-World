@@ -31,8 +31,8 @@ def movie_budget(user_api_key):
 def movie_info():
     films = []
     films_quantity = 0
-    number_of_film = 215
-    while films_quantity < 2:
+    number_of_film = 1
+    while films_quantity < 1000:
         try:
             films.append(make_tmdb_api_request(method='/movie/%d' % number_of_film, api_key=user_api_key, extra_params=None))
         except:
